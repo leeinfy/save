@@ -1,0 +1,15 @@
+# always required
+numpy
+blatann
+
+# BLE nordic device
+pyserial
+
+
+# pyqt (pyside) gui toolkit
+pyside6
+pyqtgraph
+
+# kivy gui toolkit
+kivy
+kivy_garden.graph
